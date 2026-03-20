@@ -44,13 +44,13 @@ Domain has zero Flutter/third-party dependencies. Data models implement domain e
 
 ## Screenshots
 
-<img src="screenshots/Screenshot 2026-03-20 at 12.11.57 PM.png" width="250" /> <img src="screenshots/Screenshot 2026-03-20 at 12.12.00 PM.png" width="250" /> <img src="screenshots/Screenshot 2026-03-20 at 12.12.47 PM.png" width="250" />
+<img src="screenshots/s1.png" width="250" /> <img src="screenshots/s2.png" width="250" /> <img src="screenshots/s3.png" width="250" />
 
-<img src="screenshots/Screenshot 2026-03-20 at 12.12.57 PM.png" width="250" /> <img src="screenshots/Screenshot 2026-03-20 at 12.14.10 PM.png" width="250" /> <img src="screenshots/Screenshot 2026-03-20 at 12.15.51 PM.png" width="250" />
+<img src="screenshots/s4.png" width="250" /> <img src="screenshots/s5.png" width="250" /> <img src="screenshots/s6.png" width="250" />
 
-<img src="screenshots/Screenshot 2026-03-20 at 12.15.57 PM.png" width="250" /> <img src="screenshots/Screenshot 2026-03-20 at 12.16.05 PM.png" width="250" /> <img src="screenshots/Screenshot 2026-03-20 at 12.16.18 PM.png" width="250" />
+<img src="screenshots/s7.png" width="250" /> <img src="screenshots/s8.png" width="250" /> <img src="screenshots/s9.png" width="250" />
 
-<img src="screenshots/Screenshot 2026-03-20 at 12.16.28 PM.png" width="250" />
+<img src="screenshots/s10.png" width="250" />
 
 ---
 
