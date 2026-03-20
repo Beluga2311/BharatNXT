@@ -1,0 +1,7 @@
+{
+  "dart.flutterSdkPath": ".fvm/versions/stable",
+  "dart.analysisExcludedFolders": [
+    "flutter_pub_cache"
+  ]
+
+}
